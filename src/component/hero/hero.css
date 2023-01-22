@@ -1,0 +1,24 @@
+.hero__picture {
+  display: block;
+  max-width: 100%;
+}
+
+.hero__block {
+  display: flex;
+  padding-top: 82px;
+}
+
+.hero__block-title {
+  max-width: 537px;
+  font-size: 48px;
+  line-height: 58px;
+  color: #1a1a1a;
+}
+
+.hero__block-description {
+  max-width: 563px;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 40px;
+  color: #aaaaaa;
+}
