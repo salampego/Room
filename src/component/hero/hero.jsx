@@ -15,11 +15,7 @@ export const Hero = () => {
           type="image/webp"
         />
         <source srcSet={`${imgHeroJpg} 1x, ${imgHeroJpg2x} 2x`} />
-        <img
-          src="../../images/hero/hero.jpg"
-          alt=""
-          className="hero__picture"
-        />
+        <img src={imgHeroJpg} alt="Hero" className="hero__picture" />
         <source />
       </picture>
       <div className="hero__block">

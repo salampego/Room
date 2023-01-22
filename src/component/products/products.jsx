@@ -20,7 +20,6 @@ export const Products = () => {
           </picture>
           <h3 className="products__title">Phone Booth</h3>
         </li>
-
         <li className="products__item">
           <picture>
             <source
@@ -32,7 +31,6 @@ export const Products = () => {
           </picture>
           <h3 className="products__title">Focus Room</h3>
         </li>
-
         <li className="products__item">
           <picture>
             <source
@@ -44,7 +42,6 @@ export const Products = () => {
           </picture>
           <h3 className="products__title">Meeting Room</h3>
         </li>
-
         <li className="products__item">
           <picture>
             <source

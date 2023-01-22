@@ -23,6 +23,11 @@ import imgOMR2x from "./products/openMeetingRoom@2x.jpg";
 import imgOMRWebp from "./products/openMeetingRoom.webp";
 import imgOMR2xWebp from "./products/openMeetingRoom@2x.webp";
 
+import imgSlicker1 from "./slicker/slicker1.jpg";
+import imgSlicker1_2x from "./slicker/slicker1@2x.jpg";
+import imgSlicker1Webp from "./slicker/slicker1.webp";
+import imgSlicker1Webp2x from "./slicker/slicker1@2x.webp";
+
 export { imgHeroWebp, imgHeroWebp2x, imgHeroJpg, imgHeroJpg2x };
 
 export { imgPB, imgPB2x, imgPBWebp, imgPB2xWebp };
@@ -32,3 +37,5 @@ export { imgFR, imgFR2x, imgFRWebp, imgFR2xWebp };
 export { imgMR, imgMR2x, imgMRWebp, imgMR2xWebp };
 
 export { imgOMR, imgOMR2x, imgOMRWebp, imgOMR2xWebp };
+
+export { imgSlicker1, imgSlicker1_2x, imgSlicker1Webp, imgSlicker1Webp2x };
