@@ -19,3 +19,40 @@
 .next-btn {
   left: 1rem;
 }
+
+.slick__picture {
+  max-height: 350px;
+}
+
+@media screen and (max-width: 500px) {
+  .slick__picture {
+    max-height: 150px;
+  }
+}
+
+.slick-dots {
+  bottom: -40px;
+}
+.slick-dots li {
+  height: 12px;
+  width: 12px;
+}
+
+.slick__dots--item {
+  height: 12px;
+  width: 12px;
+  background-color: #e5e5e5;
+  border-radius: 6px;
+}
+
+.slick__dots--item:hover {
+  background-color: #46856e;
+}
+
+.slick-active .slick__dots--item {
+  background-color: #46856e;
+}
+
+.slick__dots .slick__dots--item:hover {
+  background-color: #46856e;
+}
